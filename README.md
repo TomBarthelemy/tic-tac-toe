@@ -1,4 +1,4 @@
-#Hosted on firebase
+# Hosted on firebase
 https://tic-tac-toe-4fbed.web.app/
 
 # TicTacToe
