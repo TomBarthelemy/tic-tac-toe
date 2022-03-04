@@ -1,3 +1,6 @@
+#Hosted on firebase
+https://tic-tac-toe-4fbed.web.app/
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
